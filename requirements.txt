@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-core
+langchain-groq
+backboard-sdk
+pydantic
+python-dotenv
+streamlit
+elevenlabs
+sentry-sdk
