@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Cover Banner -->
-  <img src="YOUR_COVER_IMAGE_URL_OR_PATH_HERE" alt="MicroBrand Voice Engine Banner" width="100%" />
+  <img src="assets/cover.png" alt="MicroBrand Voice Engine Banner" width="100%" />
 
   <br/><br/>
 
@@ -46,7 +46,7 @@
 <br/>
 
 <div align="center">
-  <img src="YOUR_STREAMLIT_APP_IMAGE_URL_OR_PATH_HERE" alt="MicroBrand Web Application Interface" width="100%" />
+  <img src="assets/microbrand.png" alt="MicroBrand Web Application Interface" width="100%" />
   <p><i>Live Streamlit UI: Persistent Brand Workspace &bull; Multi-Channel Copy &bull; Spoken Voiceover Playback</i></p>
 </div>
 
@@ -57,8 +57,6 @@
 
 
 ## 🏆 Hackathon & Sponsor Shoutouts
-<details>
-  <summary><b>Click to open/close</b></summary>
   
 This project was built for the **Hacktoberfest 2026 Open-Source AI Challenge (Week 2: Side Hustle)**. Huge shoutout to the event partners whose developer platforms made building and running this engine seamless:
 
@@ -100,10 +98,9 @@ This project was built for the **Hacktoberfest 2026 Open-Source AI Challenge (We
 <div align="center">
   <p>
     📖 <b>Read the complete write-up and technical deep dive:</b><br/>
-    <a href="YOUR_DEV_TO_POST_URL_HERE"><b>👉 Read on DEV.to: MicroBrand Voice Engine: An Agentic Copywriter</b></a>
+    <a href="https://dev.to/kai_hiwatari/microbrand-voice-engine-an-agentic-copywriter-with-persistent-memory-guardrails-observability-3gne"><b>👉 Read on DEV.to: MicroBrand Voice Engine: An Agentic Copywriter</b></a>
   </p>
 </div>
-</details>
   
 ## 🧠 Core Architecture
 <details open>
@@ -148,7 +145,7 @@ To ensure sub-second reliability, prevent silent LLM drift, and monitor token ec
 <br/>
 
 <div align="center">
-  <img src="YOUR_SENTRY_IMAGE_URL_OR_PATH_HERE" alt="Sentry Agents Telemetry Dashboard" width="100%" />
+  <img src="assets/Sentry.png" alt="Sentry Agents Telemetry Dashboard" width="100%" />
   <p><i>Real telemetry in Sentry: LangGraph root traces, per-run token accounting, and cost tracking.</i></p>
 </div>
 
